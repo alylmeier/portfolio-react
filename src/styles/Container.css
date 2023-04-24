@@ -1,0 +1,22 @@
+#page-container {
+    position: relative;
+    min-height: 100vh;
+    background-color: rgb(37, 49, 55);
+    color:rgb(207, 201, 194)
+    
+  }
+
+  #content-wrap {
+    padding-bottom: 2.5rem;    /* Footer height */
+    background-color: rgb(37, 49, 55);
+  }
+
+  .projectOnly {
+    text-align: center;
+    background-color: rgb(37, 49, 55)
+  }
+
+  .list-group-item {
+    background-color: rgb(37, 49, 55)!important;
+    color: rgb(207, 201, 194)!important
+  }

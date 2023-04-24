@@ -1,7 +1,6 @@
 const arr = [
-    {name: "Bob", age: 52, bio: "bob@bob.com"},
-    {name: "sally", age: 42, bio: "sally@sally.com"},
-    {name: "steve", age: 45, bio: "steve@steve.com"}
+    {name: "Breaking Dad", age: 52, bio: "https://cellopudding.github.io/BreakingDad/", image: 'br image'},
+    {name: "Terrain of Thought", age: 42, bio: "https://shielded-temple-21395.herokuapp.com/", image: 'yosemite'}
 ]
 
 export default arr

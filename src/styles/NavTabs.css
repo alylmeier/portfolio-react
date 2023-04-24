@@ -1,0 +1,7 @@
+.navtabs{
+    background-color: rgb(37, 49, 55)
+}
+
+.navtabs .nav-item .nav-link.active{
+    background-color: rgb(75, 143, 120);
+}

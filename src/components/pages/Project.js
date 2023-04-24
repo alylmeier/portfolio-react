@@ -1,8 +1,11 @@
-function Project({person}){
+function Project({project}){
     return (
+        <div className="projectOnly">
         <li className="list-group-item" >
-           <h3>{person.name}</h3>
+           <h3>{project.name}</h3>
+           <a href={project.bio}><img src= {require("../../images/"+ project.image + ".png")} className="img-fluid" alt = {project.name}/></a>
           </li>
+          </div>
     )
 }
 

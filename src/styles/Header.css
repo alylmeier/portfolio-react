@@ -1,0 +1,17 @@
+.header {
+    background-image: url('../images/bgportfolio1.png');
+    background-size: cover;
+    margin: 0;
+   
+  }
+  
+  .header h1 {
+   
+    padding-top: 50px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+    text-align: right;
+    color: white;
+    font-size: 3rem;
+  }
+  

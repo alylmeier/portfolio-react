@@ -7,8 +7,8 @@ export default function ProjectList() {
   return (
 
       <ul className="list-group">
-      {arr.map((person) => (
-        <Project person = {person} key = {person.name} />
+      {arr.map((project) => (
+        <Project project = {project} key = {project.name} />
       ))}
     </ul>
   )
