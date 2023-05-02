@@ -38,6 +38,16 @@ function NavTabs({ currentPage, handlePageChange }) {
           Contact
         </a>
       </li>
+      <li className="nav-item">
+        <a
+          href="https://drive.google.com/file/d/1Miz_f3N2K36RxqPazWAdJU6sCFn6qKsX/view?usp=sharing"
+          onClick={() => handlePageChange('Resume')}
+          // Check to see if the currentPage is `Contact`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
+          className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}
+        >
+          Resume
+        </a>
+      </li>
     </ul>
     </div>
   );
