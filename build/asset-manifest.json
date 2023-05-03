@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.1ef57ac4.css",
+    "main.js": "/portfolio-react/static/js/main.fbf4aa6a.js",
+    "static/media/bgportfolio1.png": "/portfolio-react/static/media/bgportfolio1.80a01e2b279db116866b.png",
+    "static/media/react ss.png": "/portfolio-react/static/media/react ss.94a504c90abf47d504d5.png",
+    "static/media/weather.png": "/portfolio-react/static/media/weather.9eb0126dce046d8da460.png",
+    "static/media/note taker ss.png": "/portfolio-react/static/media/note taker ss.1fbf284f243b9a59318e.png",
+    "static/media/tech-blog-ss.png": "/portfolio-react/static/media/tech-blog-ss.b20176e9eb8a8765a373.png",
+    "static/media/day planner.png": "/portfolio-react/static/media/day planner.bc0e889444b5a013ab62.png",
+    "static/media/br image.png": "/portfolio-react/static/media/br image.5c0ee0a44334e22a365e.png",
+    "static/media/yosemite.png": "/portfolio-react/static/media/yosemite.f2d7c69ab723a965a74c.png",
+    "index.html": "/portfolio-react/index.html",
+    "main.1ef57ac4.css.map": "/portfolio-react/static/css/main.1ef57ac4.css.map",
+    "main.fbf4aa6a.js.map": "/portfolio-react/static/js/main.fbf4aa6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ef57ac4.css",
+    "static/js/main.fbf4aa6a.js"
+  ]
+}
