@@ -2,9 +2,12 @@ import React from 'react';
 
 export default function About() {
   return (
-    <div>
-      <h1>About Page</h1>
+    <div className='About'>
+      <h1>Hi, my name is Aly</h1>
+      <img className='avatar' src="https://avatars.githubusercontent.com/u/117381804?s=48&v=4" alt="git avatar"/>
+      
       <p>
+      <br></br>
       Hello, my name is [Your Name] and I am a [Your Profession/Industry]. I have always been passionate about [Your Passion or Interests] and knew that I wanted to pursue a career in this field from a young age.
 
 I have [Your Educational Background or Work Experience], which has helped me develop my skills and expertise in [Your Core Competencies or Specializations]. Throughout my career, I have had the opportunity to work with a variety of clients, colleagues, and stakeholders, and have gained valuable experience in [Your Industry or Niche].
