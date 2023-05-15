@@ -5,6 +5,7 @@ const arr = [
     {name: "Note Taker",  bio: "https://immense-sands-36851.herokuapp.com/", image: 'note taker ss', GH: "https://github.com/alylmeier/note-taker"},
     {name: "Weather Dashboard",  bio: "https://alylmeier.github.io/weather-dashboard/", image: 'weather', GH: "https://github.com/alylmeier/weather-dashboard"},
     {name: "Day Planner",  bio: "https://alylmeier.github.io/day-planner/", image: 'day planner', GH:"https://github.com/alylmeier/day-planner"},
+    {name: "Tech Tickets", bio: "https://tech-tickets.herokuapp.com/#Home", image: 'techtickets', GH: "https://github.com/NeelCheo/tech_tickets" },
 ]
 
 export default arr
