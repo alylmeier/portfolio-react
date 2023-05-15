@@ -9,7 +9,7 @@ This is my portfolio of work presented in React
 ## Installation
 This project is run with React and several NPM packages
 
-## Visit it here: https://morning-beyond-04314.herokuapp.com/
+## Visit it here: https://alylmeier.github.io/portfolio-react/
 
 ## Screenshot
-![generatormockup](https://github.com/alylmeier/text-editor/blob/main/Screenshot%202023-04-18%20154430.png)
+![generatormockup](https://github.com/alylmeier/portfolio-react/blob/main/src/images/react%20ss.png)
